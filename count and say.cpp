@@ -1,5 +1,4 @@
 /*
-
 COUNT AND SAY
 Input: n = 4
 Output: "1211"
